@@ -1,0 +1,24 @@
+{
+  "name": "react-template",
+  "version": "0.0.1",
+  "description": "react项目模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadaiwei/react-template.git"
+  },
+  "author": "dadaiwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadaiwei/react-template/issues"
+  },
+  "homepage": "https://github.com/dadaiwei/react-template#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2"
+  }
+}
