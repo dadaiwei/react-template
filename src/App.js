@@ -4,7 +4,7 @@ import Main from './router/index';
 import './style/index.scss';
 
 function App() {
-  return <div id="app">
+  return <div>
     <BrowserRouter>
       <Main />
     </BrowserRouter>

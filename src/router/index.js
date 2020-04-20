@@ -3,9 +3,11 @@ import {Switch, Route} from 'react-router-dom';
 import Home from '../views/Home';
 
 const Main = () => {
-  <Switch>
-    <Route exact path="/" component={Home} />
-  </Switch>;
+  return (
+    <Switch>
+      <Route exact path="/" component={Home} />
+    </Switch>
+  );
 };
 
 export default Main;
